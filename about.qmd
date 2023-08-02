@@ -23,7 +23,7 @@ about:
 
 :::{#template-area}
 
-I'm the best
+Please intensify your work
 
 :::
 
