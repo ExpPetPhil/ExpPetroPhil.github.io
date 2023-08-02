@@ -2,10 +2,10 @@ project:
   type: website
     
 website:
-  site-url: https://archaeothommy.github.io/
-  repo-url: https://github.com/archaeothommy/archaeothommy.github.io/
+  site-url: https://ExpPetroPhil.github.io/
+  repo-url: https://github.com/ExpPetroPhil/ExpPetroPhil.github.io/
   favicon: favicon.png
-  title: "Thomas Rose"
+  title: "Philtastic"
   navbar:
     left:
       - text: "My research"
