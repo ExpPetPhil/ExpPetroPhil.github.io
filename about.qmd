@@ -3,7 +3,7 @@ title: "Philipp Richert"
 about:
   id: template-area
   template: jolla
-  image: Screenshot_20210805-173242_2.png
+  image: Passbild_Croped.jpg
   links:
     - icon: twitter
       text: twitter
